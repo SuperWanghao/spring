@@ -9,26 +9,6 @@
 
 > Spring 5 源码学习笔记
 
-**最近开始学习 Spring 5 源码，做了一些分析笔记，希望能加深自己对日常一直在用的 Spring 容器的理解，也希望对你有帮助**
-
-**同时由于个人技术有限，出现理解错误或者有疑问的地方，可在掘金文章下留言，期待朋友们的反馈~**
-
-
-### 🏠 [工程地址](https://github.com/Vip-Augus/spring-analysis-note)
-
-## 下载源码
-
-```sh
-git clone https://github.com/Vip-Augus/spring-analysis-note
-```
-
-## 如何阅读
-
-![](spring-analysis-note/note/pics/spring_analysis_note.png)
-
-## 跟踪代码 Debug
-
-![](spring-analysis-note/note/pics/spring5/circle_reference_debug.gif)
 
 ## 传送门：
 
@@ -56,17 +36,4 @@ git clone https://github.com/Vip-Augus/spring-analysis-note
 
 
 
-## 关于我
 
-👤 **JingQ**
-
-* Github: [@Vip-Augus](https://github.com/Vip-Augus)
-* JueJin: [@Vip-Augus](https://juejin.im/user/58782b471b69e6005823ab38)
-* Github page : [JingQ](http://vip-augus.github.io)
-
-## 点个小星星✨
-
-**如果觉得这个项目不错，请点个小星星，蟹蟹你的鼓励~**
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
